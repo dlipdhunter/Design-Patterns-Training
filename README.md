@@ -7,5 +7,5 @@ This repo is used for my training in programming design patterns.
 #### Structural
 empty list
 #### Behavioral
-1. [State](https://github.com/dlipdhunter/Design-Patterns-Training/blob/master/Behavioral/State/Javascript/State.js")
-2. [Strategy](https://github.com/dlipdhunter/Design-Patterns-Training/blob/master/Behavioral/Strategy/Javascript/Strategy.js")
+1. [State](https://github.com/dlipdhunter/Design-Patterns-Training/blob/master/Behavioral/State/Javascript/State.js)
+2. [Strategy](https://github.com/dlipdhunter/Design-Patterns-Training/blob/master/Behavioral/Strategy/Javascript/Strategy.js)
